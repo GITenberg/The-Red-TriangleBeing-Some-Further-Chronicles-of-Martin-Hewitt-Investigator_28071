@@ -1,0 +1,35 @@
+_repo: The-Red-TriangleBeing-Some-Further-Chronicles-of-Martin-Hewitt-Investigator_28071
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morrison, Arthur
+    birthdate: 1863
+    deathdate: 1945
+    gutenberg_agent_id: '3903'
+    url: http://www.gutenberg.org/2009/agents/3903
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Morrison
+description: ''
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2009-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28071'
+  lccn: '75116962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Private investigators -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories, English'
+tableOfContents: The affair of Samuel's diamonds -- The case of Mr. Jacob Mason --
+  The case of the Lever Key -- The case of the burnt barn -- The case of the Admiralty
+  code -- The adventure of Channel Marsh.
+title: 'The Red Triangle
+
+  Being Some Further Chronicles of Martin Hewitt, Investigator'
+url: http://www.gutenberg.org/ebooks/28071
