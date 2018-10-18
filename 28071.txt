@@ -12,6 +12,7 @@ Title: The Red Triangle
 Author: Arthur Morrison
 
 Release Date: February 14, 2009 [EBook #28071]
+[Last updated: September 7, 2014]
 
 Language: English
 
@@ -2482,8 +2483,8 @@ figures, on the supposition that the figures stand for letters in their
 alphabetical order, leaving the noughts as they are. Then we get this."
 
 I rapidly pencilled the letters on the spare paper, thus:--_i, h, n, d,
-t, r, e, i; 0, s, t, 0, c, i, h, e; c, w, 0, 0, e, m, n, s; s, t, 0, 0,
-0, 0, f, a; e, t, 0, 0, 0, 0, c, v; a, 0, 0, 0, 0, 0, r, e; a, h, t, k,
+t, r, e, i; o, s, t, 0, c, i, h, e; c, w, 0, 0, e, m, n, s; s, t, 0, 0,
+0, 0, f, a; e, t, 0, 0, 0, 0, c, v; a, o, 0, 0, 0, 0, r, e; a, h, t, k,
 r, i, e, t; l, e, w, n, n, a, a, t_.
 
 "See there," I said. "Now, I can make nothing of that. When I come to
@@ -3200,7 +3201,7 @@ of the corresponding letters of the alphabet, _a_ for 1, _b_ for 2, and
 so on."
 
 Here I handed Hewitt the pencilled note I had made at the hospital, with
-letters substituted for the figures, thus:--_i, h, n, d, t, r, e, i; 0,
+letters substituted for the figures, thus:--_i, h, n, d, t, r, e, i; o,
 s, t, 0, c, i, h, e; c, w, 0, 0, e, m, n, s; s, t, 0, 0, 0, 0, f, a; e,
 t, 0, 0, 0, 0, c, v; a, o, 0, 0, 0, 0, r, e; a, h, t, k, r, i, e, t; l,
 e, w, n, n, a, a, t._
@@ -3222,11 +3223,11 @@ So I drew a rough representation of a chessboard, and set out the
 letters on it, in their order, like this:--
 
                i h n d t r e i
-               o s t o c i h e
-               c w o o e m n s
-               s t o o o o f a
-               e t o o o o c v
-               a o o o o o r e
+               o s t O c i h e
+               c w 0 0 e m n s
+               s t 0 o o 0 f a
+               e t 0 o o 0 c v
+               a o 0 o o 0 r e
                a h t k r i e t
                l e w n n a a t
 
@@ -3999,7 +4000,7 @@ He hurried out toward the farther side of the broad band of trampled
 ground which surrounded the burnt barn, and began questing to and fro,
 this way and that, receding farther from me as he went, and nearing the
 horse-pond and the road. At last he vanished altogether, and left me
-alone with the burnt barn, my thoughts, and--that dim Shape on the barn
+alone with the burnt barn, my thoughts, and--that dim shape on the barn
 floor. It was broad day, but I felt none too happy; and I should not
 have been at all anxious to keep the police watch at night.
 
@@ -5888,9 +5889,9 @@ thus:--
                w s o a i n i b
                t h a t n n t h
                n e l d i g e n
-               c h r w o n a h
+               c h r w 0 n a h
                v i f a r c e a
-               s n o u i o t l
+               s n o u i 0 t l
                r l u a f w t l
                i r o e r m l t
 
